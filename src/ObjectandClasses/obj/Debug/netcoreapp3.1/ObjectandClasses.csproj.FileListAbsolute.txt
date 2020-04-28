@@ -1,0 +1,12 @@
+/Users/sudiparatha/Documents/Practisec#/MyFirstProject/src/ObjectandClasses/obj/Debug/netcoreapp3.1/ObjectandClasses.csprojAssemblyReference.cache
+/Users/sudiparatha/Documents/Practisec#/MyFirstProject/src/ObjectandClasses/obj/Debug/netcoreapp3.1/ObjectandClasses.csproj.CoreCompileInputs.cache
+/Users/sudiparatha/Documents/Practisec#/MyFirstProject/src/ObjectandClasses/obj/Debug/netcoreapp3.1/ObjectandClasses.AssemblyInfoInputs.cache
+/Users/sudiparatha/Documents/Practisec#/MyFirstProject/src/ObjectandClasses/obj/Debug/netcoreapp3.1/ObjectandClasses.AssemblyInfo.cs
+/Users/sudiparatha/Documents/Practisec#/MyFirstProject/src/ObjectandClasses/bin/Debug/netcoreapp3.1/ObjectandClasses.deps.json
+/Users/sudiparatha/Documents/Practisec#/MyFirstProject/src/ObjectandClasses/bin/Debug/netcoreapp3.1/ObjectandClasses.runtimeconfig.json
+/Users/sudiparatha/Documents/Practisec#/MyFirstProject/src/ObjectandClasses/bin/Debug/netcoreapp3.1/ObjectandClasses.runtimeconfig.dev.json
+/Users/sudiparatha/Documents/Practisec#/MyFirstProject/src/ObjectandClasses/bin/Debug/netcoreapp3.1/ObjectandClasses.dll
+/Users/sudiparatha/Documents/Practisec#/MyFirstProject/src/ObjectandClasses/bin/Debug/netcoreapp3.1/ObjectandClasses.pdb
+/Users/sudiparatha/Documents/Practisec#/MyFirstProject/src/ObjectandClasses/obj/Debug/netcoreapp3.1/ObjectandClasses.dll
+/Users/sudiparatha/Documents/Practisec#/MyFirstProject/src/ObjectandClasses/obj/Debug/netcoreapp3.1/ObjectandClasses.pdb
+/Users/sudiparatha/Documents/Practisec#/MyFirstProject/src/ObjectandClasses/obj/Debug/netcoreapp3.1/ObjectandClasses.genruntimeconfig.cache
