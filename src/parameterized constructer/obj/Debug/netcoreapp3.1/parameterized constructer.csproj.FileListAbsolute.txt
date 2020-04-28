@@ -1,0 +1,12 @@
+/Users/sudiparatha/Documents/Practisec#/MyFirstProject/src/parameterized constructer/obj/Debug/netcoreapp3.1/parameterized constructer.csprojAssemblyReference.cache
+/Users/sudiparatha/Documents/Practisec#/MyFirstProject/src/parameterized constructer/obj/Debug/netcoreapp3.1/parameterized constructer.csproj.CoreCompileInputs.cache
+/Users/sudiparatha/Documents/Practisec#/MyFirstProject/src/parameterized constructer/obj/Debug/netcoreapp3.1/parameterized constructer.AssemblyInfoInputs.cache
+/Users/sudiparatha/Documents/Practisec#/MyFirstProject/src/parameterized constructer/obj/Debug/netcoreapp3.1/parameterized constructer.AssemblyInfo.cs
+/Users/sudiparatha/Documents/Practisec#/MyFirstProject/src/parameterized constructer/bin/Debug/netcoreapp3.1/parameterized constructer.deps.json
+/Users/sudiparatha/Documents/Practisec#/MyFirstProject/src/parameterized constructer/bin/Debug/netcoreapp3.1/parameterized constructer.runtimeconfig.json
+/Users/sudiparatha/Documents/Practisec#/MyFirstProject/src/parameterized constructer/bin/Debug/netcoreapp3.1/parameterized constructer.runtimeconfig.dev.json
+/Users/sudiparatha/Documents/Practisec#/MyFirstProject/src/parameterized constructer/bin/Debug/netcoreapp3.1/parameterized constructer.dll
+/Users/sudiparatha/Documents/Practisec#/MyFirstProject/src/parameterized constructer/bin/Debug/netcoreapp3.1/parameterized constructer.pdb
+/Users/sudiparatha/Documents/Practisec#/MyFirstProject/src/parameterized constructer/obj/Debug/netcoreapp3.1/parameterized constructer.dll
+/Users/sudiparatha/Documents/Practisec#/MyFirstProject/src/parameterized constructer/obj/Debug/netcoreapp3.1/parameterized constructer.pdb
+/Users/sudiparatha/Documents/Practisec#/MyFirstProject/src/parameterized constructer/obj/Debug/netcoreapp3.1/parameterized constructer.genruntimeconfig.cache
