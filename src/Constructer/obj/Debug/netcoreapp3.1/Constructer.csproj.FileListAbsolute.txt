@@ -1,0 +1,12 @@
+/Users/sudiparatha/Documents/Practisec#/MyFirstProject/src/Constructer/bin/Debug/netcoreapp3.1/Constructer.deps.json
+/Users/sudiparatha/Documents/Practisec#/MyFirstProject/src/Constructer/bin/Debug/netcoreapp3.1/Constructer.runtimeconfig.json
+/Users/sudiparatha/Documents/Practisec#/MyFirstProject/src/Constructer/bin/Debug/netcoreapp3.1/Constructer.runtimeconfig.dev.json
+/Users/sudiparatha/Documents/Practisec#/MyFirstProject/src/Constructer/bin/Debug/netcoreapp3.1/Constructer.dll
+/Users/sudiparatha/Documents/Practisec#/MyFirstProject/src/Constructer/bin/Debug/netcoreapp3.1/Constructer.pdb
+/Users/sudiparatha/Documents/Practisec#/MyFirstProject/src/Constructer/obj/Debug/netcoreapp3.1/Constructer.csprojAssemblyReference.cache
+/Users/sudiparatha/Documents/Practisec#/MyFirstProject/src/Constructer/obj/Debug/netcoreapp3.1/Constructer.csproj.CoreCompileInputs.cache
+/Users/sudiparatha/Documents/Practisec#/MyFirstProject/src/Constructer/obj/Debug/netcoreapp3.1/Constructer.AssemblyInfoInputs.cache
+/Users/sudiparatha/Documents/Practisec#/MyFirstProject/src/Constructer/obj/Debug/netcoreapp3.1/Constructer.AssemblyInfo.cs
+/Users/sudiparatha/Documents/Practisec#/MyFirstProject/src/Constructer/obj/Debug/netcoreapp3.1/Constructer.dll
+/Users/sudiparatha/Documents/Practisec#/MyFirstProject/src/Constructer/obj/Debug/netcoreapp3.1/Constructer.pdb
+/Users/sudiparatha/Documents/Practisec#/MyFirstProject/src/Constructer/obj/Debug/netcoreapp3.1/Constructer.genruntimeconfig.cache
